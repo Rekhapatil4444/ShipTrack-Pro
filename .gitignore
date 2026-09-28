@@ -1,0 +1,27 @@
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+Frontend/.env.*
+
+# Backend
+backend/target/
+backend/.env
+backend/.env.*
+
+# Java / Maven
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
